@@ -1,4 +1,4 @@
-package types;
+package degiskenler;
 
 public class main {
 
