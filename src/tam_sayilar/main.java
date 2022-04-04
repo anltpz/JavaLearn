@@ -49,6 +49,28 @@ public class main {
 
         System.out.println("Hello World!");
 
+        //boolean
+        boolean flag =false;
+        boolean isClosed=true;
+        boolean isCreated;
+
+        //char karakter tipi
+        //Negatif deger almaz
+        //0-- 65,535 aralıgında
+        // unicode karakter setini kullanır
+        // karakterlerin sayısal tipi vardır
+
+        // 'a'  => 97
+        // 'A'  => 65
+        // '9'  => 57
+        // ' '  => 32
+        char firsLetter ='b';
+        char c;
+
+
+
+
+
     }
 
 }
