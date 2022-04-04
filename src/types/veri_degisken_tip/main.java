@@ -1,4 +1,4 @@
-package types;
+package types.veri_degisken_tip;
 
 public class main {
     public static void main(String[] args) {
@@ -66,9 +66,6 @@ public class main {
         // ' '  => 32
         char firsLetter ='b';
         char c;
-
-
-
 
 
     }
